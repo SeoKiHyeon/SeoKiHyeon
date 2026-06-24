@@ -69,7 +69,7 @@ SSAFY 팀 프로젝트 4회 연속 우수상
         <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/SSAFY-4647/4647"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/SeoKiHyeon/4647"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -84,6 +84,9 @@ SSAFY 팀 프로젝트 4회 연속 우수상
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
       </p>
+      <p align="center">
+        <a href="https://github.com/SeoKiHyeon/Sgrade"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -97,6 +100,9 @@ SSAFY 팀 프로젝트 4회 연속 우수상
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/SeoKiHyeon/carryporter"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
