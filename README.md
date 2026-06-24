@@ -1,133 +1,139 @@
-# SeoKiHyeon
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7d6b,100:2ecc71&height=180&section=header&text=Hi!%20I%27m%20Kihyeon%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaaldud71)](https://solved.ac/rlaaldud71/)
+### 👋 About me
 
+낯선 것 앞에서 망설이기보다 일단 시작하는 **백엔드 개발자 서기현**입니다.
 
+비전공(도시공학)에서 개발로 전향해 SSAFY 14기를 수료했습니다. 납땜부터 인프라 구축, AI 모델까지 직접 손으로 만지며 배워왔고, 처음이라서 두렵지만 그래서 더 끝까지 팝니다.
 
+SSAFY 팀 프로젝트 4회 연속 우수상
 
+<hr style="height:2px; border:none; background:linear-gradient(to right, #0d7d6b, #2ecc71);" />
 
+### 🛠️ Tech Stacks
 
+**Language**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-# 💪Skills
-### Platforms & Languages
+**Backend**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+**DevOps / Infra**
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+**AI / Robotics**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
- <!-- ===== 상단 배너 ===== -->
-  <img width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7d6b,100:14b8a6&height=200&section=header&text=Seo%20Ki%20Hyeon&font
-  Size=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Infra%20to%20Embedded%20AI%20Developer&descAlignY=60&descSize=18" />
+**Database**
 
-  <!-- ===== 타이핑 소개 ===== -->
-  <div align="center">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=0D7D6B&center=tr
-  ue&vCenter=true&width=600&lines=%ED%95%9C+%EB%B6%84%EC%95%BC%EC%97%90+%EA%B0%87%ED%9E%88%EC%A7%80+%EC%95%8A%EB%8A%94+%EA%B0%9C%EB%B0%
-  9C%EC%9E%90;%EC%9D%B8%ED%94%84%EB%9D%BC%EB%B6%80%ED%84%B0+%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C+AI%EA%B9%8C%EC%A7%80;%EC%8B%9C%EC%8A%A
-  4%ED%85%9C+%EC%A0%84%EC%B2%B4%EB%A5%BC+%EC%A7%81%EC%A0%91+%EB%A7%8C%EC%A7%80%EB%A9%B0+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%92%80%EB%8B%A4)
-  ](https://git.io/typing-svg)
+**Tools**
 
-  </div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-  ## About Me
+<hr style="height:2px; border:none; background:linear-gradient(to right, #0d7d6b, #2ecc71);" />
 
-  ```text
-  SSAFY 14기 · 비전공(도시공학)에서 개발로 전향한 신입 개발자입니다.
-  인프라(Docker·CI/CD)부터 임베디드 AI(ROS2·YOLO)까지,
-  한 분야에 갇히지 않고 시스템 전체를 직접 만지며 문제를 풉니다.
+### 📂 Projects
 
-  - SSAFY 전 과정 팀 프로젝트 4회 수상
-  - 인프라 단독 구축 · IoT 실내 위치추적 · 자율주행 로봇 AI 경험
-  - tjrlgus19@gmail.com
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 4647</h3>
+      <p align="center"><img src="https://img.shields.io/badge/🏆%20우수 · SSAFY-FFD700?style=flat-square&logoColor=black"/></p>
+      <p align="center">소방대원 안전 AI 통합 관제 서비스</p>
+      <p align="center"><sub>IoT 실내 위치추적 End-to-End 단독 담당</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/SSAFY-4647/4647"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🃏 S급 개발자</h3>
+      <p align="center"><img src="https://img.shields.io/badge/🏆%20우수상 · SSAFY-C0C0C0?style=flat-square&logoColor=black"/></p>
+      <p align="center">Web3 기반 카드 수집 게임</p>
+      <p align="center"><sub>인프라 전 영역 단독 구축·운영</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 CarryPorter</h3>
+      <p align="center"><img src="https://img.shields.io/badge/🏆%20우수상 · SSAFY-C0C0C0?style=flat-square&logoColor=black"/></p>
+      <p align="center">교통약자 짐 운반 자율주행 로봇</p>
+      <p align="center"><sub>YOLOv8·LiDAR 융합 안전 제어 단독 담당</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 S급 개발자가 나를 따르는 이유에 대하여</h3>
+      <p align="center"><img src="https://img.shields.io/badge/🏆%20우수상 · SSAFY-C0C0C0?style=flat-square&logoColor=black"/></p>
+      <p align="center">방탈출 컨셉 게임 기반 디버깅 학습 플랫폼</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  Tech Stack
+<hr style="height:2px; border:none; background:linear-gradient(to right, #0d7d6b, #2ecc71);" />
 
-  Language
+### 🎓 Education
 
-  https://skillicons.dev/icons?i=python,java,js,ts,cpp
+|        기간         | 내용                                       |
+| :-----------------: | :----------------------------------------- |
+| `2025.07 – 2026.06` | 삼성 청년 SW·AI 아카데미(SSAFY) 14기 수료 |
+| `2017.03 – 2025.03` | 부산대학교 도시공학과 졸업                 |
 
-  Backend & Infra
+<hr style="height:2px; border:none; background:linear-gradient(to right, #0d7d6b, #2ecc71);" />
 
-  https://skillicons.dev/icons?i=spring,fastapi,docker,nginx,jenkins,aws,prometheus,grafana
+### 🧩 Algorithm
 
-  AI · Robotics
+<a href="https://solved.ac/rlaaldud71">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaaldud71" width="300"/>
+</a>
 
-  https://skillicons.dev/icons?i=pytorch,opencv
-  &nbsp;
-  https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white
-  https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black
-  https://img.shields.io/badge/Jetson%20Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white
+<hr style="height:2px; border:none; background:linear-gradient(to right, #0d7d6b, #2ecc71);" />
 
-  Database
+### 📬 Contact Me
 
-  https://skillicons.dev/icons?i=postgres,mysql,redis
+[![Email](https://img.shields.io/badge/skh0505555@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skh0505555@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeoKiHyeon)
 
-  GitHub Stats
-
-  https://github-readme-stats.vercel.app/api?username=SeoKiHyeon&show_icons=true&theme=graywhite&hide_border=true&title_color=0d7d6b&ic
-  on_color=0d7d6b
-  https://github-readme-stats.vercel.app/api/top-langs/?username=SeoKiHyeon&layout=compact&theme=graywhite&hide_border=true&title_color
-  =0d7d6b
-
-  Projects
-
-  사륙사칠(4647) · 소방대원 안전 AI 통합 관제
-
-  ▎ SSAFY 최종 전시 발표회 발표 부문 2위 &nbsp;|&nbsp; 2026.04–05 &nbsp;|&nbsp; 6인 팀
-
-  GPS가 닿지 않는 화재 현장 실내에서 대원의 위치·진입 시간을 지휘관에게 실시간 전달하는 통합 관제 서비스.
-
-  ▎ 담당 · IoT 실내 위치추적 End-to-End 단독 (HW·FW·통신·백엔드 알고리즘)
-
-  https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white
-  https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white
-  https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white
-  https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
-  https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white
-
-  Repository (https://github.com/SeoKiHyeon/레포이름)
-
-  ---
-  S급 개발자 · Web3 카드 수집 게임 인프라
-
-  ▎ SSAFY 프로젝트 우수상 &nbsp;|&nbsp; 2026.02–04 &nbsp;|&nbsp; 6인 팀
-
-  단일 서버에 개발·운영·핫픽스 3개 환경을 분리하고, push 한 번으로 빌드·배포·알림까지 자동화한 인프라를 단독 구축·운영.
-
-  ▎ 담당 · 인프라 전 영역 단독 (서버·CI/CD·모니터링·보안)
-
-  https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-  https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white
-  https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white
-  https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white
-  https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white
-  https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white
-
-  Repository (https://github.com/SeoKiHyeon/레포이름)
-
-  ---
-  캐리포터(CarryPorter) · 교통약자 짐 운반 로봇
-
-  ▎ SSAFY 프로젝트 우수상 &nbsp;|&nbsp; 2026.01–02 &nbsp;|&nbsp; 6인 팀
-
-  라인트레이싱 자율주행 로봇이 수하물을 인수·보관·반환하는 호출형 짐 운반 서비스.
-
-  ▎ 담당 · AI·임베디드 단독 (비전·안전·주행·데이터 추출)
-
-  https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white
-  https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black
-  https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white
-  https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white
-
-  Repository (https://github.com/SeoKiHyeon/레포이름)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:0d7d6b&height=120&section=footer" />
