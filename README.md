@@ -66,26 +66,25 @@ SSAFY 팀 프로젝트 4회 연속 우수상
         <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://github.com/SeoKiHyeon/4647"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🃏 S급 개발자</h3>
+      <h3 align="center">💰 Finflow</h3>
       <p align="center"><img src="https://img.shields.io/badge/🏆%20우수상 · SSAFY-C0C0C0?style=flat-square&logoColor=black"/></p>
-      <p align="center">Web3 기반 카드 수집 게임</p>
-      <p align="center"><sub>인프라 전 영역 단독 구축·운영</sub></p>
+      <p align="center">GPT·RAG 기반 AI 금융 챗봇 서비스</p>
+      <p align="center"><sub>AI 기능 설계 및 구현 단독 담당</sub></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/SeoKiHyeon/Sgrade"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/SeoKiHyeon/-with-"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
       </p>
     </td>
   </tr>
@@ -113,6 +112,9 @@ SSAFY 팀 프로젝트 4회 연속 우수상
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/SeoKiHyeon/Sgrade"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
       </p>
     </td>
   </tr>
