@@ -2,7 +2,7 @@
 
 ### 👋 About me
 
-낯선 것 앞에서 망설이기보다 일단 시작하는 **백엔드 개발자 서기현**입니다.
+낯선 것 앞에서 망설이기보다 일단 시작하는 **신입 개발자 서기현**입니다.
 
 비전공(도시공학)에서 개발로 전향해 SSAFY 14기를 수료했습니다. 납땜부터 인프라 구축, AI 모델까지 직접 손으로 만지며 배워왔고, 처음이라서 두렵지만 그래서 더 끝까지 팝니다.
 
@@ -112,6 +112,11 @@ SSAFY 팀 프로젝트 4회 연속 우수상
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://github.com/SeoKiHyeon/Sgrade"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
